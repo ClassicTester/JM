@@ -1,3 +1,4 @@
+
 # JM
 `Test case ID: 32846459
 
@@ -23,3 +24,4 @@ Test data: 03.03.2023
 
 Gif files in different formats and sizes.
 Note: If the expected result is not achieved, the defect should be reported with detailed steps to reproduce it, along with screenshots and logs if possible.`
+
